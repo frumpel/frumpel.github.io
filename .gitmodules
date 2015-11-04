@@ -1,0 +1,3 @@
+[submodule "devops-visualizations"]
+	path = devops-visualizations
+	url = https://github.com/frumpel/devops-visualizations.git
